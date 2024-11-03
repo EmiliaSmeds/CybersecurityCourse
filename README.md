@@ -6,4 +6,5 @@ Cybersecurity and data privacy
 
 
 | Date | Used hours | Subject |
+| --- | --- | --- |
 | 3.11.2024 | 1,5 | Introduction and first task |
