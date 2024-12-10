@@ -16,3 +16,4 @@ Cybersecurity and data privacy
 | 1.12.2024 | 1,5 | Watched tutorials and started doing the phase2 task |
 | 1.12.2024 | 1,25 | Completed Phase 2 task. Added the CSP headers to the code which fixed the issue. [report1_phase2.md](https://github.com/EmiliaSmeds/CybersecurityCourse/blob/main/report1_phase2.md) and [report2_phase2](https://github.com/EmiliaSmeds/CybersecurityCourse/blob/main/report2_phase2.md) 
 | 5.12.2024 | 1 | Read about different vulnerabilities on portswigger and did the "2FA simple bypass" authentication lab |
+| 10.12.2024 | 1 | Portswigger: Read more about SQL-injection and started reading about race conditions |
