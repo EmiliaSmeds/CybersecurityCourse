@@ -18,3 +18,4 @@ Cybersecurity and data privacy
 | 5.12.2024 | 1 | Read about different vulnerabilities on portswigger and did the "2FA simple bypass" authentication lab |
 | 10.12.2024 | 1 | Portswigger: Read more about SQL-injection and started reading about race conditions |
 | 13.12.2024 | 1 | Went back to the Cisco-course, did a module test again and answered the course survey |
+| 14.12.2024 | 2 | Read about cross-site scripting and clickjacking. Also did some labs. |
