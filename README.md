@@ -20,4 +20,4 @@ Cybersecurity and data privacy
 | 13.12.2024 | 1 | Went back to the Cisco-course, did a module test again and answered the course survey |
 | 14.12.2024 | 2 | Read about cross-site scripting and clickjacking. Also did some labs. |
 | 28.12.2024 | 0,5 | Read code obfuscation and how it works |
-| 28.12.2024 | 0,25 | Did a lab on portswigger |
+| 28.12.2024 | 1 | Did labs in portswigger |
