@@ -21,3 +21,4 @@ Cybersecurity and data privacy
 | 14.12.2024 | 2 | Read about cross-site scripting and clickjacking. Also did some labs. |
 | 28.12.2024 | 0,5 | Read code obfuscation and how it works |
 | 28.12.2024 | 1 | Did labs in portswigger |
+| 29.12.2024 | 3 | Finished phase3 of booking system project and watched lectures |
