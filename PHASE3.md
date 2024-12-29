@@ -6,3 +6,4 @@
 | The booked resources are visible on the front page, before logging in or registering | I found this by testing the page | The names of the persons who have booked the resources are not visible, but I'm not sure if I would like everyone to see what bookings have been made and the exact times, especially if the resources contain names of persons or places. I would make the bookings visible only for registered users by fixing the code so the table isn't visible on the front page. |
 | Anyone can add new resources | I found this by testing the page | I think only the administrators should be able to add resources. This could be fixed by hiding the functionality for other users, by using an IF-statement in the code. |
 
+I used the zip-file in the assignment for this task. 
