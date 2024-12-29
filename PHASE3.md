@@ -1,4 +1,5 @@
-I used the zip-file in the assignment for this task. 
+I used the zip-file in the assignment to complete this.
+
 
 | Issue | How it was found | How it could be fixed |
 | --- | --- | --- |
