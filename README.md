@@ -22,3 +22,4 @@ Cybersecurity and data privacy
 | 28.12.2024 | 0,5 | Read code obfuscation and how it works |
 | 28.12.2024 | 1 | Did labs in portswigger |
 | 29.12.2024 | 3 | Finished phase3 of booking system project and watched lectures |
+| 29.12.2024 | 0,75 | Started writing the final phase |
