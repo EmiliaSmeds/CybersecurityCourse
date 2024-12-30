@@ -24,3 +24,5 @@ Cybersecurity and data privacy
 | 29.12.2024 | 3 | Finished phase3 of booking system project and watched lectures |
 | 29.12.2024 | 0,75 | Started writing the final phase |
 | 30.12.2024 | 0,25 | Read a bit about gdpr |
+| 30.12.2024 | 3 | Watched recordings |
+| 30.12.2024 | 1,75 | Updated the code and kept writing the final phase |
