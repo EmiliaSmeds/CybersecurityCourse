@@ -26,3 +26,4 @@ Cybersecurity and data privacy
 | 30.12.2024 | 0,25 | Read a bit about gdpr |
 | 30.12.2024 | 3 | Watched recordings |
 | 30.12.2024 | 1,75 | Updated the code and kept writing the final phase |
+| 31.12.2024 | 1 | Finished the final phase |
